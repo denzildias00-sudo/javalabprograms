@@ -38,3 +38,12 @@ Program 3B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/ma
 
 Program 3C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program3C.png
 
+Program 4A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program3C.png
+
+Program 4B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program3C.png
+
+Program 4C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program3C.png
+
+
+
+
