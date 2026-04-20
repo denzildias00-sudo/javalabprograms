@@ -28,10 +28,9 @@ Program 1p10 --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/
 
 Program 2A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2a.png
 
-Program 2B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2b.png
+Program 2B --> o/p: 
 
-Program 3A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program3A%20(2).png
-
+Program 3A --> o/p: 
 Program 3B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2b.png
 
 Program 3C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2b.png
