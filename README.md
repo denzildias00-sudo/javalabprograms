@@ -48,7 +48,7 @@ Program 5A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/ma
 
 Program 5B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program5B.png
 
-Program 5C --> o/p:
+Program 5C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program5C.png
 
 Program 5D --> o/p:
 
