@@ -44,6 +44,14 @@ Program 4B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/ma
 
 Program 4C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program4C.png
 
+Program 5A --> o/p:
+
+Program 5B --> o/p:
+
+Program 5C --> o/p:
+
+Program 5D --> o/p:
+
 
 
 
