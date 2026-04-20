@@ -2,7 +2,7 @@
 
 program 1A --> o/p:https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program1A.png
 
-Program 1p1 --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program1A.png
+Program 1p1 --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program1p1.png
 
 Program 1p2 --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program1p2.png
 
