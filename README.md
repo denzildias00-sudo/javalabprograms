@@ -42,7 +42,7 @@ Program 4A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/ma
 
 Program 4B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program4B.png
 
-Program 4C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program3C.png
+Program 4C --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/Program4C.png
 
 
 
