@@ -32,6 +32,6 @@ Program 2B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/ma
 
 Program 3A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program3A%20(2).png
 
-Program 3B --> o/p: 
+Program 3B --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program3B.png
 Program 3C --> o/p: 
 
