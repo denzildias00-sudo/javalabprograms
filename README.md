@@ -25,3 +25,4 @@ Program 1p10 --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/
 
 
 Program 2A --> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2a.png
+Program 2B--> o/p: https://github.com/denzildias00-sudo/javalabprograms/blob/main/program2b.png
